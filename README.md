@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Amanda
+- 👀 I’m interested in C sharp+
+- 🌱 I’m currently learning Java
+- 📫 How to reach me ...
